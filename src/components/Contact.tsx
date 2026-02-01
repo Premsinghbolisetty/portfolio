@@ -14,7 +14,7 @@ export default function Contact() {
         </p>
         <div className="flex justify-center gap-8 mb-12">
           <a
-            href="premsinghbolisetty@gmail.com"
+            href="mailto:premsinghbolisetty@gmail.com"
             className="flex items-center gap-2 text-gray-600 hover:text-gray-900 transition-colors"
           >
             <Mail className="w-5 h-5" />
