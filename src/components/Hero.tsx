@@ -4,7 +4,7 @@ export default function Hero() {
       <div className="max-w-4xl text-center">
         <div className="mb-8 inline-block">
           <div className="w-32 h-32 mx-auto rounded-full bg-gradient-to-br from-gray-800 to-gray-600 flex items-center justify-center text-white text-5xl font-light">
-            <img src="src/components/PREM SINGH BOLISETTI  1 (2).jpg" alt="Prem Singh Bolisetty" className="w-full h-full rounded-full object-cover" />
+            <img src="src\components\prem.jpg" alt="Prem Singh Bolisetty" className="w-full h-full rounded-full object-cover" />
           </div>
         </div>
         <h1 className="text-6xl md:text-7xl font-light tracking-tight text-gray-900 mb-6">
